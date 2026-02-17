@@ -27,7 +27,4 @@ To deliver the first increment of working software (Health API) and establish th
 
 ## Screenshots
 
-_(Please add screenshots here after pushing to GitHub)_
-
-- [ ] Screenshot of Local Server Response
-- [ ] Screenshot of GitHub Actions "Green" Build
+- ![ Screenshot of GitHub Actions "Green" Build](sprint1-review.png)
