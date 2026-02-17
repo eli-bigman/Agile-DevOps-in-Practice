@@ -37,6 +37,7 @@ To apply feedback from Sprint 1, deliver system resource monitoring, and enhance
 ## Screenshots
 
 - ![Screenshot of logs in terminal](./imgs/health_details_endpoint.png)
+
 - ![Screenshot of logs in terminal](./imgs/health_endpoint.png)
 
 - ![Screenshot of CI pipeline](./imgs/sprint_2_CI.png)
